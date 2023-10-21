@@ -1,0 +1,501 @@
+Full Name,Job Title,Years of Experience,Location,Business Field,Skill Endorsements,Education,Excel,MATLAB,Machine Learning,Power BI,Product Management,Python,RevOps,SCRUM,SQL,Team Work,Arabic,Dutch,English,Finnish,German,Korean,Spanish
+Thomas Robinson,CEO,0.9,New York,Consulting,74,Utrecht University,0,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0
+Amanda Hernandez,Startup Founder,1.6,Warsaw,Big Data,81,Utrecht University,0,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0
+Alexander Butler,CEO,2.5,London,Web3,99,Utrecht University,1,1,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1
+Dylan Lopez,CEO,0.9,Helsinki,Sales,43,Utrecht University,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+Christopher Campbell,Product Manager,3.4,Helsinki,Consulting,78,Oxford,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,0,0
+Michael Carter,CFO,0.3,Seoul,AI,78,Caltech,1,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,1
+Courtney Gray,Startup Founder,0.7,Madrid,Consulting,39,Utrecht University,0,1,0,0,1,1,1,0,0,1,0,0,1,0,0,0,0
+Mark Humphrey,Startup Founder,2.6,Los Angeles,Consulting,69,Utrecht University,0,0,0,1,0,0,0,1,1,1,1,0,0,0,0,1,1
+Phillip Bowman,CEO,2.9,Munich,IT,67,Yale,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0
+Cameron Kelly,CFO,2.6,Munich,Finance,53,Oxford,0,1,1,1,1,0,0,1,0,1,0,0,1,0,0,1,0
+Leah Alvarez,CFO,0.0,Berlin,Logistics,48,MIT,1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,1,0
+Bryan Gray,CFO,1.7,Warsaw,IT,51,Stanford University,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,1,1
+Joshua Mckinney,Product Manager,1.0,Warsaw,Logistics,99,ETH Zürich,0,1,0,1,1,1,0,1,1,1,0,0,1,0,0,0,0
+Francisco Vincent,Founder,2.1,San Francisco,Logistics,97,Caltech,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0
+Joseph Brewer,CEO,4.1,Madrid,Web3,59,Yale,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0
+Tom Valdez,CEO,2.9,San Francisco,Big Data,4,Utrecht University,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1
+Mary Williams,CFO,2.6,Helsinki,Finance,8,Oxford,0,1,0,1,1,1,1,1,1,1,0,0,1,0,1,0,1
+Michael Patterson,CTO,4.6,Amsterdam,Logistics,88,Utrecht University,0,1,1,0,1,0,0,0,0,1,0,1,0,1,0,1,0
+Tamara Kirby,Founder,1.3,Warsaw,Logistics,60,Berkeley,0,0,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0
+Elizabeth Smith,Product Manager,0.8,Madrid,Web3,2,Berkeley,1,1,0,1,0,1,1,0,0,0,0,0,1,1,0,1,0
+Janet Hart,Product Manager,2.4,Berlin,AI,31,Yale,1,1,1,1,0,1,1,0,0,0,1,0,1,0,0,0,1
+Todd Mcclain,Founder,2.0,Helsinki,IT,20,MIT,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+Hannah Abbott,Product Manager,3.8,Munich,Sales,94,Ágora,1,1,1,1,1,1,0,1,1,1,0,0,0,1,0,1,1
+Cindy Marshall,Founder,1.5,Helsinki,Sales,64,Stanford University,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+Margaret Ramirez,Startup Founder,4.4,New York,Logistics,76,Yale,1,0,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0
+Michelle Mitchell,Startup Founder,1.9,Berlin,Web3,4,Utrecht University,1,0,1,0,0,1,0,0,0,1,0,1,0,0,0,1,1
+Pamela Barnes,Founder,4.6,Munich,Logistics,24,Utrecht University,1,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Cheryl Schmidt,CTO,3.5,Helsinki,Finance,20,Berkeley,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,1
+Julie Villarreal,Product Manager,4.4,Helsinki,AI,82,Utrecht University,0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,0,1
+Ana Perez,Startup Founder,2.7,Seoul,Finance,92,Yale,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,1,0
+Vickie David,Founder,3.1,Warsaw,Big Data,55,Caltech,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,0,1
+Eric White,Product Manager,3.2,Madrid,Big Data,95,Stanford University,0,1,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0
+Maria Winters,Product Manager,4.9,Los Angeles,Finance,69,Yale,1,0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0
+Brooke Ramirez,CTO,2.8,London,Big Data,95,Yale,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0
+Timothy Martinez,Product Manager,2.2,Munich,IT,58,Ágora,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+Barbara Brandt,Founder,3.9,Barcelona,Logistics,84,Berkeley,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Robert Freeman,CEO,0.8,Helsinki,Finance,62,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0
+Bridget Spencer,Founder,1.5,Warsaw,IT,40,Utrecht University,0,1,1,1,0,1,0,1,0,0,0,0,1,0,0,1,0
+James Moore,CFO,4.1,Utrecht,Logistics,96,Harvard University,0,0,1,1,0,0,1,1,1,0,0,1,0,0,1,1,0
+Craig Middleton,CTO,4.2,New York,Consulting,56,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1
+Tiffany Sims,CEO,4.9,Warsaw,Big Data,62,Harvard University,0,0,0,1,1,0,0,0,0,1,0,0,0,1,0,0,0
+Samantha Montes,CEO,2.3,Barcelona,Sales,24,MIT,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1
+Stephen Moore,Founder,0.5,Warsaw,Big Data,64,MIT,1,1,0,1,1,1,0,1,0,0,0,0,0,1,1,0,0
+Samuel Downs,Product Manager,0.3,Munich,Big Data,90,Caltech,1,0,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0
+Daniel Matthews,Product Manager,0.9,Berlin,Finance,5,Ágora,1,1,1,0,0,0,1,1,1,1,0,0,0,0,1,0,0
+Brent Martin,CTO,4.3,Los Angeles,Web3,75,Utrecht University,0,0,1,1,1,0,1,1,1,1,1,0,1,0,0,0,0
+Shelly Richard,CEO,1.5,Helsinki,IT,4,MIT,1,1,1,1,1,1,1,0,0,0,0,1,0,0,1,0,0
+Angela Howard,Startup Founder,4.1,Madrid,Finance,25,Caltech,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0
+Paul Tate,CTO,0.2,Madrid,IT,27,Ágora,0,0,0,1,1,1,1,1,1,1,0,1,1,0,1,0,0
+Shawn Snyder,Startup Founder,0.9,London,Sales,76,ETH Zürich,0,0,0,0,0,1,1,0,1,1,0,1,1,0,1,0,0
+Sharon Jordan,Startup Founder,4.6,Munich,Sales,29,Caltech,1,0,1,1,1,1,1,1,0,0,0,1,0,1,0,0,0
+Christopher Juarez,Founder,1.5,London,AI,26,Oxford,0,0,1,1,1,1,1,0,1,0,0,0,0,1,0,0,0
+Walter Gonzalez,CEO,1.5,Munich,Logistics,22,Harvard University,1,1,0,1,1,0,1,1,1,1,1,0,0,0,0,0,0
+Deanna Brown,CTO,0.1,New York,Web3,82,Utrecht University,0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0
+Tiffany Melendez,CTO,1.7,Berlin,IT,42,ETH Zürich,1,1,0,0,0,0,0,0,1,1,1,0,0,0,1,0,0
+Robert Durham,CTO,1.8,New York,Logistics,51,Stanford University,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,0
+Nicole Palmer,CEO,1.5,Seoul,Logistics,80,Utrecht University,1,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0
+Jamie Henry,Founder,1.9,Seoul,Consulting,42,MIT,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0
+Paul Wilson,Product Manager,0.6,Madrid,AI,80,MIT,1,1,0,1,0,1,0,0,1,1,0,0,1,0,0,0,0
+Breanna Murray,Founder,2.1,Munich,Big Data,75,Oxford,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Mason Doyle Jr.,Founder,4.2,New York,Consulting,12,Stanford University,1,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1
+Pam Perez,CTO,0.7,Barcelona,Logistics,6,Harvard University,1,1,0,1,1,1,1,0,1,0,1,0,0,1,1,0,0
+Melinda Espinoza,CEO,0.3,Berlin,Consulting,38,Yale,1,0,1,1,1,0,1,1,0,1,1,1,0,0,0,1,0
+Matthew Vaughn,Startup Founder,0.8,Los Angeles,Big Data,45,Oxford,1,0,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0
+Tracey Bishop,CEO,3.9,Madrid,Web3,90,ETH Zürich,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Summer Flores,Product Manager,3.9,Seoul,Big Data,51,Stanford University,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0
+Wendy Luna,CTO,2.7,Berlin,Big Data,94,Oxford,1,1,1,0,0,1,1,1,1,1,0,1,0,0,1,0,0
+Rachel Carpenter,CTO,3.6,Helsinki,Sales,5,Harvard University,0,1,1,0,0,0,0,1,1,0,0,0,0,1,0,0,0
+Sheri Love,CTO,3.4,Utrecht,Finance,11,Utrecht University,0,0,0,0,1,1,0,1,0,1,0,0,1,0,1,1,0
+Keith Webb,Product Manager,4.9,Los Angeles,AI,34,Berkeley,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0
+Catherine Ross,CFO,2.1,Helsinki,IT,43,MIT,0,0,1,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+Zachary Thomas,Product Manager,1.1,London,Big Data,69,Stanford University,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Deborah Pena,CEO,4.1,San Francisco,Sales,66,Harvard University,1,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0
+Jordan Flores,CEO,2.0,Berlin,IT,79,Oxford,0,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Maxwell Smith,Founder,1.5,San Francisco,Logistics,77,MIT,0,0,0,1,1,1,1,1,1,0,0,0,1,1,1,0,0
+Brent Mays,CTO,1.1,New York,Consulting,7,Stanford University,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0
+James Sullivan,CEO,1.4,Utrecht,Finance,67,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1
+Tamara Larson,CFO,0.6,Helsinki,Sales,27,ETH Zürich,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,1,0
+Stephanie Parker,Startup Founder,2.9,Warsaw,IT,60,MIT,0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,1,1
+Robert Guerrero,Startup Founder,3.9,London,IT,2,Ágora,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,1,1
+Kevin Santos,Startup Founder,3.5,Helsinki,IT,58,Berkeley,1,0,0,0,1,0,1,0,1,1,1,0,0,0,1,0,0
+Ryan Boone MD,CEO,1.5,Munich,IT,46,Yale,1,0,0,0,1,1,1,0,0,0,0,0,0,0,1,1,0
+Derrick George,CEO,1.3,Los Angeles,Big Data,65,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,0
+Adam Freeman,Founder,4.8,Munich,Finance,64,Berkeley,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0,0
+Sarah Hamilton,CTO,1.8,Los Angeles,AI,84,Caltech,1,1,1,1,1,0,1,1,1,1,0,1,0,0,1,1,0
+Samantha Weaver,CTO,3.7,Amsterdam,Finance,25,Berkeley,1,1,1,1,0,1,1,1,1,0,0,1,0,1,0,0,0
+Michelle Hill,Product Manager,3.7,Barcelona,Logistics,18,Yale,0,0,0,1,1,0,1,0,1,1,0,0,0,1,1,0,1
+Andrea Black,CEO,3.4,Helsinki,Web3,22,Caltech,0,1,1,0,1,1,1,1,0,1,0,0,0,1,0,0,1
+Jennifer Ayala,Startup Founder,2.7,Berlin,IT,99,Oxford,1,1,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0
+Amy Hicks,CFO,3.3,Madrid,Finance,36,Utrecht University,1,1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+Brittany Lee,CEO,2.2,London,Big Data,17,Ágora,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+Grant Moreno,CFO,0.4,Utrecht,Consulting,86,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+Jessica Adams,CEO,0.2,London,Big Data,1,Caltech,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0
+Chad Ross,CTO,4.2,Utrecht,Consulting,83,Oxford,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,0,1
+Melissa Wallace,Product Manager,0.6,New York,Web3,87,Oxford,0,0,1,1,0,0,1,0,0,0,1,0,1,0,1,0,0
+Chelsea Baker,CEO,0.8,London,Consulting,40,Oxford,0,0,1,1,1,1,1,1,1,0,0,0,1,1,0,0,1
+Heather Hall,Startup Founder,0.0,Helsinki,Web3,39,Yale,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,0,1
+Brian Davis,Startup Founder,0.4,San Francisco,Big Data,79,ETH Zürich,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1
+Ashley Gross,Product Manager,1.1,San Francisco,IT,62,Ágora,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0
+Kimberly Burton,CEO,4.4,Los Angeles,Logistics,31,Berkeley,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1
+Nicholas Hernandez,CFO,4.9,London,Web3,56,MIT,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0
+Tiffany Johnston,Founder,0.6,Helsinki,Logistics,59,Ágora,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Melissa Nelson,Product Manager,1.5,New York,Big Data,25,Harvard University,1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0,0
+Nancy Dodson DDS,CFO,1.5,Barcelona,Finance,55,Stanford University,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0
+Desiree Martin,CFO,4.8,Madrid,Consulting,40,ETH Zürich,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0
+Maurice Torres,Founder,4.5,New York,Consulting,86,Caltech,1,1,1,0,1,0,0,1,0,1,0,0,0,0,1,1,0
+Rebecca Potter,Founder,3.0,Barcelona,Web3,33,Ágora,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,1
+Joseph Nichols,CFO,1.2,Barcelona,Big Data,28,Yale,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,0,0
+Colin Armstrong,Founder,3.9,Warsaw,Finance,73,Berkeley,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,0
+Robert Smith,CTO,3.6,Los Angeles,Web3,22,Yale,1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,0,0
+George Spencer,CTO,4.8,Munich,Web3,25,ETH Zürich,0,1,1,0,1,1,0,0,1,1,0,0,0,1,0,0,0
+Jacob Rogers,Founder,1.8,Madrid,Consulting,8,Yale,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,0
+Andrew Gonzales,Product Manager,3.7,Seoul,Sales,94,Oxford,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0
+William Martinez,Founder,2.8,Utrecht,Big Data,51,Berkeley,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,0,0
+Amber Hampton,CTO,0.7,Seoul,Logistics,84,Berkeley,1,0,0,1,0,1,1,0,0,0,0,0,0,1,1,1,0
+Joshua Rodriguez,Founder,1.9,Barcelona,Logistics,28,Yale,0,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0
+Amy Coleman,CFO,3.1,New York,Web3,74,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+Mary Gilbert,Founder,0.3,New York,Logistics,34,Caltech,1,0,0,0,0,1,0,0,1,0,0,1,0,1,0,1,0
+Vincent Rodriguez,Startup Founder,2.3,Warsaw,Big Data,43,Stanford University,1,1,1,0,1,1,0,1,1,0,0,0,1,1,1,0,0
+Debra Kelley,CFO,3.6,Barcelona,Logistics,13,Stanford University,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1
+Eric Lewis,CTO,0.5,San Francisco,Consulting,76,Caltech,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0
+Joseph Myers,CTO,2.9,San Francisco,Finance,41,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0
+Brian Burgess,Founder,1.0,Seoul,Consulting,69,Oxford,1,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,0
+Jacob Ellis,CFO,2.0,Barcelona,IT,56,ETH Zürich,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0
+Tracey Rodgers,CEO,2.5,Barcelona,Sales,56,Oxford,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0
+Chad Cook,CTO,4.8,Amsterdam,Sales,90,Caltech,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+Dr. Melinda Curry,Founder,1.8,Barcelona,Logistics,78,Yale,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1,1,1
+Abigail Williams,CFO,1.0,Madrid,Big Data,62,Stanford University,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0
+Eric Gonzalez,CTO,2.7,London,Web3,17,Stanford University,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0
+Russell Anderson,Product Manager,3.8,Barcelona,Finance,34,MIT,1,1,0,1,1,1,1,1,0,1,0,0,1,0,1,0,0
+Kristin Cruz,Startup Founder,4.2,San Francisco,Sales,74,Yale,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+Sean Russell,Startup Founder,4.8,London,Sales,91,Caltech,1,1,1,0,0,1,0,1,1,1,1,0,1,1,0,0,0
+Anna Garcia,Product Manager,4.9,London,Web3,29,ETH Zürich,1,0,1,0,1,0,0,1,1,1,0,0,1,0,1,0,0
+Christina Hardin,CEO,0.6,Utrecht,IT,66,Caltech,1,1,1,0,1,1,1,1,1,0,0,0,0,0,0,1,0
+John Kirby,CTO,1.2,London,IT,13,Caltech,0,0,1,1,0,1,0,1,0,1,0,0,0,0,0,1,1
+Anthony Bell,Founder,1.3,Munich,Finance,63,Yale,1,0,0,1,1,1,1,1,1,1,1,0,0,1,0,0,1
+Robert Wang,CFO,2.4,Seoul,Sales,83,Harvard University,1,1,0,1,0,0,0,0,1,1,0,1,0,0,1,0,0
+Robert Bradley,CTO,3.3,San Francisco,Consulting,82,Oxford,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0
+April Williams,CTO,0.6,Madrid,Big Data,69,Yale,1,0,0,1,1,0,0,1,1,1,0,0,0,1,0,1,1
+Kimberly Mack,CFO,1.6,Barcelona,Logistics,45,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0
+Kerri Arnold,Founder,3.9,Seoul,Finance,91,MIT,0,0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+Nichole Cruz,Product Manager,1.4,Berlin,AI,30,Utrecht University,0,0,1,0,0,1,0,0,1,1,0,0,0,0,1,0,0
+John Anderson,Founder,4.6,Seoul,Web3,44,Utrecht University,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+Anthony Garcia,Product Manager,0.0,Los Angeles,Consulting,89,Stanford University,0,0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,0
+Beverly Johnson,CFO,0.7,Munich,Consulting,23,Oxford,1,1,0,0,1,1,0,0,1,0,1,0,0,1,1,0,0
+Rebecca Snyder,CTO,4.0,Amsterdam,Consulting,61,Caltech,0,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0
+Casey Long,Startup Founder,4.0,Warsaw,AI,26,Ágora,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,1
+Sandra Hughes,Startup Founder,1.3,Utrecht,IT,17,Harvard University,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1
+Brittany Duarte,Product Manager,1.5,Los Angeles,Web3,34,Yale,1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0
+Nathan Sullivan,CTO,4.4,London,Big Data,51,Stanford University,1,1,1,1,0,1,1,1,1,1,1,0,0,1,0,0,0
+Jonathan Foster,Product Manager,3.4,Seoul,Logistics,24,ETH Zürich,0,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,0
+Ryan Andrade,CEO,3.9,Seoul,Sales,28,Harvard University,0,0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,0
+Karen Vasquez,Startup Founder,2.5,Berlin,Consulting,24,Utrecht University,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1
+Jesus Williams,CFO,3.9,Utrecht,Logistics,34,Berkeley,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1
+Lisa Morris,Product Manager,1.2,Utrecht,Web3,29,Yale,1,1,1,1,0,1,1,1,0,1,1,0,1,0,0,0,1
+Jacob Burke,Startup Founder,0.3,Barcelona,IT,43,Stanford University,1,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1
+Ian King,CTO,4.2,New York,AI,98,MIT,0,1,0,1,0,0,0,0,1,1,0,0,0,0,1,0,1
+Matthew Peterson,Product Manager,5.0,Warsaw,Logistics,100,Utrecht University,1,0,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1
+Tracy Thomas,Product Manager,1.2,Munich,AI,83,Utrecht University,0,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0
+Christine Walton,Product Manager,2.0,Munich,IT,12,Caltech,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0
+Jose Matthews,Product Manager,1.7,Warsaw,AI,1,Utrecht University,0,0,1,1,1,0,0,1,0,0,0,0,0,1,0,0,0
+Crystal Romero,Founder,2.8,Utrecht,Sales,21,Utrecht University,1,1,1,1,1,1,1,0,1,1,0,0,1,1,0,0,1
+James Perez,CTO,3.7,Amsterdam,IT,54,Stanford University,1,1,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0
+Jose Zamora,CEO,0.6,Seoul,IT,65,Oxford,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1
+Mary Mcdaniel,Startup Founder,4.9,Madrid,Consulting,83,Yale,0,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0
+Joseph Paul,Startup Founder,4.0,Helsinki,IT,9,Oxford,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Jessica Gross PhD,Startup Founder,0.9,Amsterdam,Sales,6,Yale,1,0,1,0,1,0,1,0,0,1,0,0,1,0,1,0,1
+Christopher Russell,CTO,1.9,London,Web3,58,ETH Zürich,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0
+Tara Pearson,CTO,0.1,Amsterdam,Big Data,57,Caltech,1,1,1,1,1,1,1,0,0,1,0,0,1,0,1,0,0
+Sean Grimes,Startup Founder,3.2,Munich,Finance,83,Yale,0,0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0
+Amanda Woodward,CEO,4.8,Amsterdam,Consulting,9,ETH Zürich,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0,0
+Susan White,CFO,3.1,Berlin,Finance,86,Berkeley,1,0,1,1,1,1,1,1,1,0,0,1,0,0,0,1,0
+Alexis Gonzalez,CTO,0.2,Helsinki,Sales,35,Stanford University,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0
+Kristin Fuller,CTO,3.9,Berlin,Finance,100,MIT,1,0,0,0,1,1,0,1,0,0,1,1,0,0,1,0,0
+Michael Wilkerson,CTO,0.8,Helsinki,Sales,77,Harvard University,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+Allison Brown,Founder,3.5,Warsaw,Logistics,49,MIT,0,0,0,1,1,0,0,0,0,0,1,1,0,0,0,1,0
+Victor Vega,CEO,3.6,San Francisco,IT,72,ETH Zürich,1,0,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1
+Robert Brown,CTO,4.1,Munich,AI,36,Harvard University,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1,0,1
+Joseph Meyer,CFO,4.5,New York,Logistics,98,Caltech,0,1,0,1,1,1,1,1,0,1,1,0,1,0,0,0,1
+Mitchell Tran,CEO,3.3,Helsinki,Web3,27,Utrecht University,0,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0
+Mr. Joseph Kim,CFO,3.5,New York,Big Data,49,ETH Zürich,0,1,1,1,0,1,1,1,1,0,0,1,1,0,0,0,0
+Beth Carter,Product Manager,1.9,London,Consulting,74,Harvard University,1,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+Joseph Gallegos,Product Manager,3.6,London,Web3,38,Oxford,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,1,0
+Scott Owen,Startup Founder,1.3,Los Angeles,Finance,88,Oxford,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+Stuart Nunez,CFO,2.6,Amsterdam,Big Data,16,Berkeley,1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0
+Lisa Cain,Founder,2.5,Warsaw,Logistics,38,ETH Zürich,0,1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,1
+Tammy Wells,CTO,1.3,Los Angeles,AI,2,ETH Zürich,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+Christine Jennings,CTO,3.2,Barcelona,AI,97,Stanford University,0,1,1,1,1,1,0,1,1,1,0,0,1,0,0,1,0
+Matthew Harrison,Product Manager,1.1,New York,AI,28,Yale,0,1,1,1,1,1,1,1,0,1,0,0,0,1,1,0,1
+Juan Wilcox,Startup Founder,0.7,Berlin,Finance,49,Harvard University,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,1
+David Tate,Startup Founder,3.6,Munich,Sales,26,Oxford,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0
+Jillian Henry,CEO,4.3,Utrecht,Logistics,13,Berkeley,0,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0
+Kevin Dorsey,Founder,1.2,Helsinki,Logistics,67,Harvard University,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,1
+Valerie Riley,Startup Founder,0.3,Berlin,Finance,55,Stanford University,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1
+William King,Founder,3.7,New York,IT,41,MIT,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,1,0
+Kristi Cox,Startup Founder,3.2,Amsterdam,Big Data,38,Yale,0,1,1,1,1,0,0,1,1,1,0,1,1,0,0,0,1
+Ricky Reed,CTO,4.5,Los Angeles,Consulting,35,Utrecht University,0,1,1,0,1,0,0,0,1,1,0,1,0,0,0,1,1
+Denise Alvarado,Startup Founder,0.6,Madrid,Consulting,92,Utrecht University,1,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+Keith Barrett,CEO,3.9,Warsaw,Consulting,0,Harvard University,1,1,1,1,1,1,1,0,1,1,0,1,1,0,0,0,1
+Wendy Fletcher,Founder,0.3,Warsaw,Big Data,68,Oxford,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0
+Laura Thompson,CTO,3.4,Munich,Big Data,51,Stanford University,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,0
+Jessica Wilson,Product Manager,4.1,Utrecht,Big Data,20,Caltech,0,1,1,1,1,1,1,1,1,1,0,0,1,0,1,0,0
+Christian Burch,CFO,0.9,Warsaw,AI,49,Berkeley,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0
+Jessica Herrera,CEO,1.9,Berlin,IT,73,Yale,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,0,1
+Ernest Novak,Product Manager,2.4,Los Angeles,Web3,73,Ágora,1,1,0,1,0,0,1,0,1,0,0,0,0,0,0,1,1
+Denise Lee,CTO,0.7,Los Angeles,Big Data,5,Berkeley,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Adam Simmons MD,CTO,3.4,Amsterdam,Finance,38,Harvard University,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Kenneth Mcbride,Product Manager,3.8,London,AI,0,Oxford,1,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0
+Christine Knapp,CTO,2.9,London,Big Data,25,Caltech,0,1,1,0,0,1,1,0,0,0,0,1,0,1,0,0,0
+Matthew Myers,CFO,1.5,Helsinki,Logistics,38,Harvard University,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,1
+Paige Stevens,CEO,3.0,Berlin,IT,9,Yale,1,1,1,1,1,1,1,1,0,1,0,1,1,0,0,0,0
+Megan Velasquez,CEO,0.4,New York,Web3,72,Yale,1,0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,0
+Juan Perez,CEO,3.4,Berlin,Finance,69,Harvard University,0,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+Virginia Moon,Startup Founder,3.9,Barcelona,Consulting,74,Yale,0,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,0
+Ryan Bartlett,CFO,1.6,New York,Web3,44,Ágora,1,0,1,0,0,1,0,1,1,1,1,0,1,1,0,0,0
+David Gomez,Founder,1.0,Seoul,Consulting,0,Berkeley,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+Ashley Carrillo,CEO,0.1,Seoul,Consulting,17,Stanford University,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,0
+David Ford,Startup Founder,1.8,Utrecht,Web3,36,Oxford,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1
+David Carlson,Founder,2.9,Barcelona,Web3,29,Harvard University,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,0
+Valerie Rojas,Product Manager,0.3,Amsterdam,Sales,11,ETH Zürich,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,1,0
+Joseph Sims,CTO,4.7,Berlin,Sales,73,Oxford,0,0,0,0,0,1,1,1,1,1,0,1,1,0,1,0,0
+Ann Valentine,CTO,1.4,Amsterdam,Consulting,2,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1
+Caitlin Deleon,CEO,0.9,Seoul,AI,4,Caltech,1,1,0,1,1,0,1,0,0,1,0,1,1,0,0,1,0
+Tara Huang PhD,CEO,1.6,London,Big Data,5,ETH Zürich,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Randy Park,CEO,3.6,Amsterdam,Logistics,32,Yale,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0
+Anthony Phillips,Startup Founder,3.9,Barcelona,Logistics,25,Utrecht University,0,0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,0
+Michael Miller,CTO,0.2,Berlin,Web3,76,MIT,1,0,1,1,1,1,0,1,1,0,0,0,0,1,0,1,1
+Joshua Rodriguez,CEO,1.6,Berlin,Sales,30,Utrecht University,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,0
+Peggy Johnson,Startup Founder,3.2,Utrecht,IT,52,Harvard University,1,1,0,0,1,0,0,0,1,1,1,0,1,0,0,0,1
+Jenna Hughes,CEO,1.6,Barcelona,Web3,34,Harvard University,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,1
+Jamie Kim,CEO,0.6,Helsinki,Big Data,23,Oxford,0,1,0,0,1,0,0,1,0,1,0,0,0,1,1,0,1
+Jessica Ramos,CFO,2.4,London,AI,90,Caltech,1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,1,1
+Kelly Hubbard,Product Manager,1.4,San Francisco,Sales,75,ETH Zürich,0,1,1,1,1,0,0,1,1,1,0,0,1,1,0,0,0
+Sarah Turner,CTO,5.0,Munich,Consulting,28,ETH Zürich,1,1,1,1,1,1,0,0,1,1,0,1,0,0,1,0,0
+Jack Montoya,CFO,4.5,Seoul,Logistics,20,Caltech,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0
+Julie Miller,Founder,1.3,London,IT,97,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,1,0
+Jessica Parker,Startup Founder,2.9,Amsterdam,Web3,80,Caltech,1,1,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0
+Jason Quinn,Product Manager,3.1,San Francisco,Consulting,8,Yale,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Dr. Misty Chang PhD,CEO,0.6,Los Angeles,Big Data,95,MIT,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Michael Thomas,Founder,0.3,Los Angeles,AI,16,Ágora,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0,0,0
+Lorraine Chambers,Startup Founder,0.8,Utrecht,Web3,52,Harvard University,0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,1
+Jamie Cuevas,Product Manager,1.9,Amsterdam,Logistics,65,Harvard University,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0
+Justin Larsen,Product Manager,0.9,Barcelona,Web3,55,Yale,1,0,1,1,1,1,0,1,1,0,0,1,0,1,0,1,0
+Robert Moore,CEO,3.8,Barcelona,Sales,51,Yale,0,0,1,0,1,0,0,0,0,0,1,1,0,0,1,0,0
+Joseph Campbell,CEO,3.5,Madrid,Sales,37,Oxford,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Erika Miller,CTO,2.3,Helsinki,Finance,64,Stanford University,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,0,0
+Timothy May,Startup Founder,4.1,Munich,Logistics,69,MIT,0,0,1,1,0,1,0,1,0,0,0,0,1,0,1,0,1
+Valerie Reid,CTO,0.2,Utrecht,Big Data,98,Yale,0,1,1,0,0,1,1,0,1,1,0,0,1,0,0,1,1
+Mrs. Lisa Burton,CTO,4.1,Madrid,Web3,37,Utrecht University,0,1,1,0,0,0,0,0,1,1,0,1,0,1,0,0,1
+Ms. Kathy Hansen,Product Manager,3.2,San Francisco,Sales,42,MIT,0,0,0,1,1,1,1,0,1,1,0,1,1,0,0,0,1
+Kerry Davis,CEO,3.1,Utrecht,Consulting,35,Yale,0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,1,0
+Reginald Davis,Startup Founder,2.0,San Francisco,AI,5,MIT,0,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1
+Kimberly Simmons,Product Manager,3.1,Utrecht,IT,5,Stanford University,0,0,1,1,1,0,1,1,1,0,0,0,1,0,0,1,0
+William Sosa,CEO,2.2,Berlin,Finance,31,Berkeley,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0
+Tyrone Moses,CFO,3.1,Los Angeles,AI,55,Oxford,1,1,0,1,1,1,1,1,1,0,0,1,0,0,0,0,0
+Danielle Hughes,Founder,2.7,Los Angeles,Big Data,77,Oxford,0,0,1,1,0,0,1,0,1,0,1,0,0,1,1,0,0
+Laurie Hale,Startup Founder,4.3,Seoul,Sales,78,Utrecht University,1,0,0,1,1,0,0,1,0,1,0,0,0,1,0,0,1
+William Glover,CFO,1.5,Los Angeles,IT,37,Harvard University,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1
+Kristi James,Product Manager,4.4,Utrecht,Consulting,16,Ágora,1,1,1,1,1,1,0,1,1,1,0,0,0,1,0,0,0
+Scott Hooper,CTO,2.6,Amsterdam,Finance,82,Harvard University,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,1,0
+Kenneth Medina,CEO,1.2,New York,Web3,28,ETH Zürich,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0
+Fernando Payne,CTO,1.1,Helsinki,Web3,27,Ágora,1,1,1,0,0,1,0,1,0,0,0,0,0,1,0,1,0
+Cynthia Lozano,Product Manager,3.4,Los Angeles,Big Data,14,Caltech,1,0,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1
+Lisa Sandoval,CFO,2.5,Munich,Consulting,41,Ágora,1,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,0
+Jennifer Griffin,Startup Founder,4.7,Los Angeles,Logistics,34,Utrecht University,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Kathleen Ramirez,Startup Founder,2.6,Seoul,Consulting,47,Oxford,1,0,0,1,0,1,0,0,1,1,0,0,0,0,1,1,0
+Lisa Duffy,CTO,3.2,Helsinki,IT,23,Utrecht University,1,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1,0
+James Chapman,CEO,3.6,Amsterdam,AI,59,Yale,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,1
+Mrs. Mackenzie Powell,Startup Founder,0.6,San Francisco,Logistics,85,Stanford University,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1
+Christina Hughes,Founder,1.5,Berlin,AI,13,Harvard University,0,0,1,1,1,1,1,1,1,0,0,1,0,1,0,0,0
+Martha Stone,CEO,0.4,Munich,IT,71,MIT,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,0,0
+Janet Sanders,Founder,2.6,Munich,Sales,28,Caltech,0,0,1,0,1,0,0,1,0,0,1,1,0,0,0,0,0
+Kelly Watson,Startup Founder,0.4,Amsterdam,AI,77,Stanford University,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,0,0
+Michael Arnold,Startup Founder,2.3,Los Angeles,AI,48,Caltech,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Andrew Valenzuela,Product Manager,1.1,Madrid,Logistics,3,Stanford University,0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0
+Christina Owen,CFO,0.2,Seoul,AI,82,Utrecht University,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0
+Jason Murphy,CFO,1.3,Madrid,AI,31,Ágora,1,1,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0
+Adrian Williamson,CTO,2.9,Warsaw,Finance,52,Stanford University,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0
+Barry Miller,CEO,0.3,Utrecht,Logistics,37,Berkeley,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,1
+Tommy Stokes,Founder,3.0,Berlin,Web3,94,Ágora,0,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+Thomas Salinas,Product Manager,0.4,Berlin,IT,63,Utrecht University,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0
+Michele Davis,Founder,1.5,Helsinki,IT,55,Caltech,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0
+Shelly Faulkner,Product Manager,3.3,New York,Web3,70,Utrecht University,0,0,0,1,0,1,1,1,0,1,0,0,0,0,0,1,0
+Rebecca Foster,CTO,4.0,Amsterdam,Consulting,8,Oxford,1,1,0,1,1,0,1,1,1,1,0,0,1,0,0,0,0
+Zachary Villa,CEO,3.0,Utrecht,Consulting,20,Yale,0,1,1,1,0,0,0,1,1,1,0,0,0,0,0,0,1
+Katie Martin,CEO,0.3,Los Angeles,Logistics,65,Oxford,0,0,0,1,0,0,0,0,0,1,0,1,1,0,0,1,0
+Amy Smith,Startup Founder,2.4,Munich,Finance,73,MIT,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0
+Gilbert Riggs,Founder,1.0,Los Angeles,AI,57,Yale,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0,1,0
+Gordon Farrell,Startup Founder,4.3,Amsterdam,Sales,33,Stanford University,0,1,0,0,0,1,0,0,0,0,1,0,1,0,0,0,0
+Emily Key,Founder,3.6,Seoul,Web3,68,MIT,1,1,0,1,1,0,1,1,1,1,0,1,1,0,0,0,0
+Chelsea King,Product Manager,3.1,New York,Sales,40,Utrecht University,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+Aaron Allen,Founder,4.4,Seoul,Web3,93,Oxford,1,0,0,0,1,0,1,1,1,0,0,1,1,1,0,0,0
+Jamie Huang,Founder,1.4,Los Angeles,Big Data,57,Oxford,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,0,0
+John Phillips,CFO,4.9,Berlin,IT,18,Yale,1,1,0,0,1,1,1,1,1,1,0,1,0,0,0,0,0
+Kenneth Bailey,CFO,4.5,Seoul,AI,25,Ágora,0,0,0,1,1,1,1,0,0,0,1,0,0,1,0,0,0
+Mary Goodman,Startup Founder,4.4,Berlin,Logistics,44,Caltech,0,0,1,0,0,0,1,1,0,1,0,0,1,0,1,0,0
+Robert Nicholson,Product Manager,1.9,Berlin,Big Data,52,Oxford,1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,0,0
+Mr. Timothy Duncan,CTO,4.5,Berlin,AI,5,Oxford,1,1,1,0,1,1,0,1,0,0,0,1,1,0,0,0,0
+Alex Alexander,Founder,3.3,Barcelona,Sales,49,Oxford,1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,0,0
+Mrs. Amanda Adams,Founder,0.1,Seoul,Finance,44,ETH Zürich,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,1
+Jessica Walter,Founder,2.3,Munich,Web3,60,Berkeley,0,1,0,1,0,1,0,0,1,1,0,1,0,0,0,1,0
+Taylor Fitzpatrick,Product Manager,1.6,Warsaw,Sales,25,Caltech,0,1,0,0,0,0,1,1,1,0,1,1,0,0,0,0,0
+Melissa Espinoza,Startup Founder,1.8,Warsaw,Consulting,35,Utrecht University,1,1,0,0,0,1,1,1,0,1,0,0,0,1,0,0,0
+Dawn Mckinney,CEO,4.1,Utrecht,AI,28,Berkeley,1,1,1,1,1,0,1,1,1,1,0,1,0,0,0,0,0
+Heather Anderson,Product Manager,1.1,Los Angeles,Big Data,69,Stanford University,0,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+Sonya Taylor,CEO,4.9,San Francisco,Finance,49,Oxford,1,1,1,1,0,1,1,1,1,1,0,0,1,0,1,0,0
+Jeffrey Macdonald,CFO,4.1,Warsaw,Finance,65,ETH Zürich,1,1,1,1,1,1,1,0,1,1,0,1,0,0,0,0,1
+Robert Cruz,Founder,3.9,San Francisco,IT,49,Caltech,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,0
+Gregory Craig,CFO,3.5,Helsinki,Web3,12,Stanford University,1,1,1,1,1,0,1,1,1,1,1,0,0,1,0,0,1
+Samantha Freeman,Startup Founder,0.7,Seoul,AI,72,Caltech,1,1,1,1,1,1,1,1,0,1,0,1,0,1,0,0,0
+Amy Morgan,Product Manager,2.6,Los Angeles,AI,92,Ágora,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Zachary Lawrence,CFO,1.5,San Francisco,Finance,77,ETH Zürich,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+Amy Turner DDS,Product Manager,4.7,New York,Web3,22,Harvard University,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+Spencer Clark,Startup Founder,0.0,Amsterdam,Sales,20,Stanford University,1,0,0,1,1,1,0,1,0,1,0,0,1,0,0,1,1
+Patricia Wu,CEO,0.9,Amsterdam,Sales,70,Caltech,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0,1
+Lindsay Bruce DDS,Founder,1.5,London,Web3,45,Berkeley,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1
+Paul Andersen,Product Manager,1.4,Utrecht,Consulting,8,Stanford University,1,1,1,1,1,1,0,0,1,0,0,1,1,0,0,1,0
+Bradley Watson,Startup Founder,2.7,Munich,Web3,54,Caltech,1,0,1,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+Jennifer Tyler,CFO,4.2,Helsinki,Consulting,7,Ágora,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0
+Sarah Aguilar,CTO,3.4,Utrecht,AI,23,Oxford,0,1,1,1,0,0,1,1,1,1,0,0,0,1,0,1,1
+Nicholas Dawson,CFO,1.1,Seoul,Web3,41,Oxford,1,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0
+Steven Schneider,CFO,0.6,Helsinki,Consulting,29,Ágora,0,0,1,0,0,0,1,1,0,1,0,1,1,0,0,0,0
+Hannah Cooper,CFO,1.7,Los Angeles,Web3,38,Stanford University,1,1,1,1,1,0,0,1,0,0,0,1,1,1,0,0,0
+John Ferrell,Startup Founder,1.1,London,AI,42,Ágora,1,1,1,1,1,0,1,1,1,1,0,0,1,0,1,1,0
+Barry Whitehead,Startup Founder,3.1,Madrid,Web3,52,Yale,0,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0
+Deborah Nelson,Product Manager,4.1,Utrecht,Big Data,86,Utrecht University,1,1,0,0,1,1,1,1,0,1,0,0,1,0,1,0,1
+Jill Jones,Product Manager,2.3,Munich,IT,80,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1
+Amy King,Startup Founder,4.8,Helsinki,Finance,95,Stanford University,0,0,0,1,0,1,0,0,1,1,1,0,0,1,0,0,0
+Logan Cohen,Product Manager,4.9,Utrecht,Big Data,67,Utrecht University,1,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,1
+Alexander Oliver,Startup Founder,2.6,Munich,Big Data,79,ETH Zürich,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+Brad Waters,CTO,2.8,Amsterdam,Logistics,74,Ágora,0,0,1,0,1,0,1,1,0,1,0,0,1,0,1,0,0
+Corey Dunn,Founder,2.6,Madrid,AI,7,Harvard University,1,1,0,1,1,1,1,1,0,0,0,0,0,0,0,1,0
+Nancy Garcia,Startup Founder,0.6,Berlin,Consulting,64,Yale,1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0
+David Bryant,Product Manager,2.6,Munich,Web3,65,Harvard University,0,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0
+Martha Stewart DDS,CEO,1.7,Berlin,IT,79,Ágora,0,1,0,1,1,0,1,1,1,1,0,0,0,1,1,0,0
+Matthew Anderson,CEO,0.5,Helsinki,Big Data,58,Ágora,1,1,0,1,1,1,1,1,1,1,0,0,1,0,0,1,0
+Crystal Valdez,CFO,0.9,London,Logistics,48,Yale,1,0,0,1,1,1,0,0,1,0,1,1,1,0,0,0,0
+Miss Rachel Baldwin,Startup Founder,1.2,Munich,Web3,11,Utrecht University,1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,0,0
+Stephanie Glover,CFO,1.4,Barcelona,AI,60,Stanford University,1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,0,1
+Karen Branch,CTO,3.8,Seoul,IT,39,Utrecht University,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1
+Jonathan Sanchez,CEO,2.6,Seoul,Sales,20,Utrecht University,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1,0
+Tracy Jackson,Founder,1.2,San Francisco,Logistics,54,ETH Zürich,0,1,1,0,0,0,1,1,0,1,1,0,1,0,0,0,1
+Destiny Lee,CFO,2.1,San Francisco,Big Data,20,Utrecht University,1,0,1,1,1,1,1,1,1,0,0,0,1,0,0,1,1
+Rebecca Smith,CEO,4.6,Amsterdam,Logistics,98,Utrecht University,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+Andrew Gomez,CTO,4.2,London,IT,7,Utrecht University,1,1,1,1,1,1,0,1,1,1,1,0,0,0,0,0,0
+Jasmine Sanford,CEO,2.2,Madrid,Web3,52,Yale,0,1,1,1,1,1,0,1,1,1,1,0,0,1,0,0,1
+Alexis Flores,Product Manager,3.4,San Francisco,Big Data,81,Utrecht University,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
+Maria Reed,CTO,0.8,New York,Sales,39,Yale,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Angela Lee,Startup Founder,1.3,Helsinki,Sales,2,Utrecht University,0,0,1,1,1,1,0,0,1,1,1,1,0,0,0,0,1
+Dorothy Hoffman,Product Manager,1.4,Warsaw,AI,45,Yale,1,1,0,1,1,0,0,0,0,0,1,0,0,0,1,1,0
+Tyrone Ball,CEO,2.9,London,Web3,92,Harvard University,1,1,0,1,1,1,1,1,1,1,1,0,0,0,0,1,0
+Katherine Martinez,CTO,4.2,Berlin,Big Data,88,Caltech,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+Barry Martin,Product Manager,0.4,London,Logistics,72,Berkeley,0,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+Karen Yates,CFO,0.0,Amsterdam,IT,56,Berkeley,1,1,1,0,0,1,1,0,1,1,1,0,0,0,1,0,1
+Matthew Martinez,Startup Founder,0.3,Munich,Finance,48,Caltech,0,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,1
+Mrs. Brenda Ferrell DDS,Startup Founder,2.5,Berlin,IT,15,Berkeley,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+Melissa Mccormick,Startup Founder,1.9,Helsinki,Finance,83,Harvard University,1,1,1,0,0,1,1,1,1,1,0,0,1,1,0,0,0
+Monica Jones,CFO,0.1,Helsinki,Finance,55,Stanford University,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,1,1
+Derrick Holmes,CTO,4.2,Munich,Finance,5,Stanford University,0,0,1,1,1,0,1,1,1,1,0,0,1,0,0,0,0
+Jennifer Ramirez,CTO,0.3,Amsterdam,IT,44,Berkeley,1,0,1,0,1,1,0,0,1,1,0,0,0,0,1,0,0
+Scott Hudson,CTO,0.1,London,Logistics,52,Caltech,0,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,0
+Lance Jones,CEO,2.8,Seoul,Logistics,66,Caltech,0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1
+Deanna Parker,CFO,4.7,Helsinki,Sales,73,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,1,0
+Brian Martinez,Startup Founder,2.4,Los Angeles,Sales,55,Caltech,1,0,1,1,1,0,1,1,1,0,1,1,0,0,0,0,0
+Brittany Cobb,CFO,4.3,San Francisco,Big Data,73,Harvard University,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1,0,1
+Bradley Lewis,Founder,1.9,Seoul,Finance,70,MIT,1,1,0,1,0,1,0,1,1,1,0,0,0,0,1,0,0
+Mariah Patel,CFO,1.7,Los Angeles,Sales,1,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,1
+Melissa Medina,CEO,0.4,Madrid,AI,73,Yale,1,0,1,0,1,1,0,1,1,1,0,0,0,1,0,0,0
+Kimberly Cox,CTO,1.8,Helsinki,Logistics,22,Ágora,1,1,0,0,1,1,0,1,1,1,0,1,0,0,1,1,0
+Phillip Morrison,CEO,2.7,Warsaw,Big Data,19,Stanford University,1,0,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0
+Heather Jones,Startup Founder,3.9,Munich,Web3,19,Berkeley,0,1,1,1,1,0,1,1,0,1,0,0,0,0,1,0,1
+Brian Cox,Founder,4.0,Helsinki,Finance,40,Utrecht University,0,0,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0
+Frances Gutierrez,Product Manager,2.9,New York,Logistics,71,Utrecht University,1,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0
+Steven King,Founder,4.0,Amsterdam,Logistics,76,Berkeley,1,1,1,0,1,1,1,1,0,1,1,0,0,0,0,0,0
+Melissa Martinez,Founder,2.1,Barcelona,Big Data,64,Stanford University,1,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,1
+Lance Lloyd,CTO,0.3,Munich,IT,53,ETH Zürich,1,0,0,0,1,1,1,1,1,1,0,0,1,1,0,0,0
+John Martin,CFO,3.5,Los Angeles,Sales,27,Utrecht University,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+Nicholas Robinson,CTO,1.2,Los Angeles,Finance,58,Utrecht University,0,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,0
+Colleen Rogers,Founder,4.2,Barcelona,IT,49,Yale,1,0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,0
+Eric Burch,CFO,1.4,Munich,Big Data,64,Caltech,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0
+Dr. Jermaine Haynes,CEO,4.8,London,Consulting,11,Harvard University,1,1,1,0,0,1,1,1,1,1,1,0,1,0,0,0,1
+Linda Ashley,Startup Founder,1.7,Madrid,Consulting,41,Harvard University,1,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,0
+Jay Rose,Founder,2.6,Madrid,Consulting,92,ETH Zürich,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,0
+Alexis Luna,CFO,3.1,Munich,Finance,71,Berkeley,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,0
+Gregory Perez,CTO,3.0,Madrid,Finance,20,Caltech,0,0,0,1,1,0,1,0,0,0,1,0,0,1,1,0,0
+Lisa Williams,CTO,4.5,Amsterdam,Finance,15,Berkeley,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1
+Thomas Jones,CTO,2.8,Seoul,Big Data,50,Ágora,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,1,0
+Scott Bray,CTO,1.7,Helsinki,Big Data,9,Ágora,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Michael Young,Founder,4.7,San Francisco,Logistics,4,Caltech,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,0,0
+Allison Perez,CTO,3.8,San Francisco,Big Data,14,ETH Zürich,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0
+Kevin Lewis,CFO,2.2,San Francisco,Web3,44,Stanford University,0,0,0,1,0,0,1,1,1,0,1,0,1,0,1,0,0
+Michael Howard,Startup Founder,3.0,Los Angeles,Consulting,31,Yale,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Ashley Young,CEO,3.8,London,IT,21,Oxford,0,0,1,0,1,0,0,1,1,0,0,1,0,0,0,1,0
+Stacey Smith,Product Manager,3.8,Berlin,AI,26,MIT,1,0,1,0,1,1,0,1,1,0,1,0,0,0,0,0,0
+Javier Williams,CFO,3.3,London,Web3,2,Utrecht University,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0
+Stephanie Gray,Startup Founder,2.2,New York,IT,6,Oxford,0,0,0,1,0,0,0,1,0,0,0,0,1,0,1,1,0
+Samantha Skinner,Product Manager,4.2,Barcelona,Finance,6,ETH Zürich,0,0,0,0,1,1,1,0,0,1,0,0,0,0,1,0,0
+Shawn Dodson,Startup Founder,1.8,Seoul,IT,8,Harvard University,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,0,1
+Dustin Benitez,Product Manager,0.8,Berlin,IT,44,Ágora,1,1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,1
+Mrs. Amber Brooks,CFO,4.8,London,Logistics,46,ETH Zürich,0,1,0,0,1,0,0,0,0,1,0,1,0,1,0,0,1
+Kevin West,CTO,0.1,Amsterdam,Web3,7,Harvard University,1,0,1,1,0,0,0,0,1,1,1,0,0,0,1,0,0
+Cody Brown,Startup Founder,1.1,London,Consulting,4,Oxford,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1,0
+Jeffrey Santos,Product Manager,2.7,Amsterdam,IT,99,Yale,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0
+Nicole Little,CEO,4.5,Helsinki,AI,30,Yale,0,1,0,0,1,1,1,0,0,0,0,0,1,0,1,0,0
+Travis Mcdonald,CEO,3.4,Utrecht,Web3,18,Stanford University,1,1,1,1,1,1,1,0,1,0,0,1,0,1,0,0,1
+Jill Hoffman,Founder,1.6,Warsaw,Sales,35,Berkeley,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0
+Heather Elliott,Startup Founder,3.5,Warsaw,Consulting,95,Oxford,0,1,1,1,1,0,1,0,0,0,0,1,0,0,0,0,0
+Cory Anderson,Founder,2.8,Warsaw,AI,91,Berkeley,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+Glen Smith,CFO,3.5,Munich,Consulting,24,MIT,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+Miguel Terrell,Startup Founder,3.9,London,Consulting,10,ETH Zürich,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0
+David Matthews,Product Manager,1.2,San Francisco,Big Data,50,Stanford University,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0
+Kristine Terry,Founder,0.0,London,IT,84,Oxford,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,0,1
+Pamela Ponce,Product Manager,2.8,Munich,Web3,16,Yale,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Alexandria Mooney,Startup Founder,1.6,Berlin,AI,39,Ágora,1,0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,0
+Heidi Jackson,CFO,4.6,Berlin,AI,49,Stanford University,0,1,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+Thomas Baker,Startup Founder,1.7,New York,Consulting,63,Caltech,1,1,0,0,1,1,1,1,1,0,0,0,1,0,0,0,0
+Benjamin Baird,CFO,0.5,Utrecht,Web3,68,Oxford,0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,0,0
+Tiffany Schroeder,Founder,3.5,New York,Finance,23,Berkeley,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0
+Cameron Smith,CFO,4.9,London,IT,81,Yale,0,0,1,0,1,0,0,0,0,1,0,0,0,1,0,0,1
+Christopher Lin,CTO,2.1,London,IT,89,Harvard University,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,1
+Robert Parks,CEO,0.4,Los Angeles,Sales,34,Harvard University,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Bobby Knight,CEO,3.5,San Francisco,Big Data,74,MIT,0,1,1,1,1,1,1,0,1,1,0,1,1,0,1,0,0
+Tracy Hamilton,CFO,1.0,Utrecht,Finance,38,Stanford University,1,0,1,1,1,1,1,1,0,1,1,0,0,0,0,0,0
+John Cortez,Startup Founder,3.2,Amsterdam,Logistics,44,Ágora,0,0,1,0,0,1,1,0,1,0,0,0,1,0,0,0,1
+Patricia Walsh,Founder,4.0,New York,IT,78,Caltech,1,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,0
+John Kennedy,Startup Founder,3.3,Seoul,Logistics,46,Yale,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1
+Jacqueline Smith,Startup Founder,0.1,Seoul,Finance,99,Oxford,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+Cheryl Tapia,Product Manager,2.2,Seoul,Logistics,50,MIT,0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,0,0
+Joseph Reed,Startup Founder,1.9,Los Angeles,Web3,32,Stanford University,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0
+Kathy Schneider,Startup Founder,3.9,New York,AI,30,MIT,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,1,1
+Christopher Duncan Jr.,Product Manager,0.9,Madrid,Web3,77,MIT,0,0,1,0,1,0,1,1,1,1,0,0,0,0,1,0,1
+Patricia Kemp,Founder,1.9,Madrid,Consulting,97,Ágora,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,0
+Victoria Mendoza,CFO,1.4,Berlin,Logistics,76,Oxford,0,1,0,0,0,0,1,1,0,1,0,0,0,1,0,0,0
+Jacob Young,CTO,1.5,Munich,AI,92,Harvard University,1,0,1,1,0,1,1,1,0,1,0,0,0,0,0,0,1
+Christopher Davis,Product Manager,0.1,Utrecht,Finance,17,ETH Zürich,0,1,0,0,0,1,0,1,1,0,1,0,0,0,1,0,1
+Rebecca Acosta,CFO,3.6,New York,Consulting,28,Stanford University,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0
+Kevin Manning,CFO,3.0,London,Finance,39,Oxford,1,1,0,1,1,1,1,1,1,1,0,0,0,0,0,1,0
+Katherine Mccarthy,CEO,2.6,Madrid,Web3,92,Yale,1,1,1,1,0,1,0,1,0,1,0,1,0,0,0,1,0
+Sharon Mitchell,Startup Founder,2.1,New York,Web3,47,Ágora,0,0,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0
+Ashley Anderson,Product Manager,1.8,Helsinki,Consulting,32,Caltech,0,0,0,0,0,1,1,0,0,1,0,1,0,0,1,0,1
+Sylvia Mcclure,CEO,2.8,Seoul,Sales,85,Oxford,0,0,0,0,1,0,0,1,1,0,0,1,0,1,1,0,0
+Jodi Molina,CEO,0.5,New York,Big Data,7,MIT,1,1,0,0,1,1,0,1,0,1,0,0,0,0,1,0,0
+Joshua Morgan,CEO,2.5,Madrid,AI,32,ETH Zürich,1,0,1,1,0,1,1,1,1,1,0,0,0,1,0,1,1
+Allison Ramirez,CTO,1.7,San Francisco,Web3,27,Stanford University,0,0,1,1,1,1,1,0,0,0,0,0,1,1,0,0,1
+Thomas Hicks,CFO,3.5,Madrid,Web3,26,Stanford University,1,1,0,1,1,1,1,1,1,1,1,0,0,0,1,0,0
+Amber Nelson,CFO,1.1,Helsinki,Finance,97,MIT,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1
+Christina Kelly,CEO,3.8,Barcelona,AI,57,Caltech,0,0,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0
+Billy Thomas,CFO,1.9,Los Angeles,AI,1,Caltech,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,0
+Karen Cabrera,CFO,2.6,New York,AI,7,Stanford University,1,1,1,1,1,0,1,1,1,1,1,1,0,0,0,0,1
+Kelly Espinoza,Startup Founder,1.6,Munich,Consulting,31,Stanford University,0,0,0,1,0,0,0,0,0,0,1,0,0,1,1,0,0
+Susan Leblanc,Product Manager,2.3,Utrecht,Finance,68,ETH Zürich,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1
+David Cooper,Product Manager,2.3,Utrecht,IT,2,Utrecht University,0,0,1,1,1,0,1,0,0,1,1,0,0,0,0,1,0
+Lisa Bray,Founder,3.6,Seoul,Finance,91,Caltech,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,1
+Kim Lopez,CFO,4.9,Helsinki,Big Data,23,Oxford,0,0,0,0,0,1,0,0,0,1,1,0,1,0,0,0,0
+Timothy Boyd,Founder,2.7,Barcelona,Web3,59,Oxford,0,1,1,1,1,0,1,1,1,1,0,0,1,0,0,1,1
+Matthew Johnson,CFO,1.6,Warsaw,Finance,34,Utrecht University,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,1
+Denise Caldwell,Product Manager,0.0,Warsaw,Big Data,62,Berkeley,0,1,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1
+Jason Nelson,Founder,1.7,Utrecht,Web3,83,Stanford University,1,0,1,1,1,0,1,1,1,1,0,0,0,0,1,0,1
+Carrie Keith,CEO,4.1,Helsinki,Big Data,5,Oxford,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,0,0
+Tabitha Marshall,Product Manager,2.7,San Francisco,IT,46,Yale,1,1,0,1,1,0,1,1,1,1,0,0,0,1,0,0,1
+Keith Mercado,Startup Founder,2.7,Amsterdam,Logistics,30,Stanford University,1,1,0,0,0,0,1,0,1,0,1,0,1,0,0,1,0
+April Evans,CTO,0.9,London,Finance,93,ETH Zürich,1,1,1,1,0,0,0,1,0,0,0,0,1,0,0,0,1
+Amanda Nielsen,CEO,4.1,San Francisco,AI,90,Harvard University,1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,0,0
+Linda Morris,CEO,4.0,Los Angeles,Logistics,94,Caltech,1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0
+Eric Fernandez,Product Manager,0.7,Utrecht,Sales,99,Oxford,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,0
+Jennifer Smith,CEO,0.5,New York,Big Data,18,Caltech,0,1,1,1,0,0,1,0,0,0,0,1,0,0,1,0,0
+Jacob Anderson,Startup Founder,1.2,Madrid,Sales,30,MIT,0,0,1,0,0,0,1,0,0,1,1,1,0,0,0,1,0
+Alexander Brock,Product Manager,1.9,Helsinki,Web3,42,Caltech,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+Amber Lopez,CFO,2.8,Seoul,Logistics,66,Berkeley,1,0,1,1,1,1,1,1,0,1,1,0,0,0,1,0,1
+Calvin Waters,Startup Founder,2.1,New York,Web3,17,ETH Zürich,0,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0
+Andrew Nelson,Startup Founder,0.9,San Francisco,AI,57,Berkeley,0,1,1,1,1,1,0,1,1,1,0,1,1,0,0,0,0
+Ryan Zamora,Founder,1.4,Seoul,Finance,31,Oxford,0,0,1,1,0,0,0,0,1,0,0,0,1,0,1,0,1
+Melissa Adkins,CTO,0.3,Helsinki,Sales,87,Harvard University,0,1,0,1,0,1,1,1,0,1,0,1,1,0,0,0,0
+Anthony Gomez,Founder,1.0,Los Angeles,AI,38,MIT,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,1,1
+Mr. Patrick Rodriguez,Startup Founder,1.9,Munich,Big Data,46,Oxford,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,1,0
+Renee Sanchez,Product Manager,0.1,Helsinki,Consulting,11,Yale,0,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0
+Kevin Hughes,Product Manager,0.9,Berlin,Consulting,74,Yale,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1
+Timothy Johnson,Founder,2.5,Warsaw,AI,42,MIT,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1
+Christian Thompson,CTO,2.1,Los Angeles,Big Data,29,Oxford,1,1,1,1,1,1,0,1,1,1,0,0,0,0,0,0,1
+Kimberly Allen,CTO,2.8,Berlin,Finance,42,Berkeley,1,1,1,0,1,0,1,1,1,1,0,0,0,1,0,0,0
+Amanda Wheeler,Product Manager,2.1,Madrid,Web3,79,Utrecht University,0,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Brad Farley,CFO,4.1,Amsterdam,Big Data,98,Yale,0,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,1
+Robert Graham,Startup Founder,0.0,Munich,IT,68,ETH Zürich,0,0,1,1,0,1,0,0,0,0,0,0,1,1,1,0,0
+Kent Hendrix,Founder,0.5,Madrid,Consulting,8,Berkeley,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Stacey Torres,CTO,1.2,Berlin,Finance,67,Yale,1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0
+Matthew Foster,Founder,4.9,San Francisco,Logistics,76,Yale,1,1,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0
+Kevin Smith,Product Manager,0.1,Los Angeles,Finance,78,MIT,0,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0
+Jordan Tran,CFO,2.5,Seoul,Logistics,69,MIT,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,0,0
+Colleen Bailey,CTO,3.8,Madrid,Finance,41,ETH Zürich,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,1
+Andrew Alexander,CEO,1.5,Barcelona,IT,14,Harvard University,1,1,1,1,1,1,0,1,1,1,0,0,0,0,1,1,0
+Kaitlyn Maldonado,CEO,1.4,Amsterdam,Sales,26,Utrecht University,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+Jeffery Archer,CFO,0.6,Warsaw,Consulting,7,ETH Zürich,1,0,1,1,0,1,1,0,0,1,0,0,0,1,0,0,0
+Jason Edwards,CTO,0.1,London,Sales,21,Berkeley,1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,0
+Miranda Torres,Product Manager,2.5,Seoul,Finance,15,Ágora,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0
+Madison Drake,CEO,4.0,Los Angeles,Web3,1,Yale,1,1,1,1,1,1,1,1,0,0,0,0,1,0,1,0,0
+Michael Smith,CEO,3.3,Madrid,Consulting,36,MIT,0,1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,0
+Brenda Fisher,CTO,3.1,Barcelona,Sales,5,Utrecht University,1,1,1,1,1,1,0,0,1,0,0,0,1,0,0,1,0
+Dustin Jones,CTO,0.9,Berlin,AI,92,Ágora,0,1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,0
+Kaitlin Daniels,CFO,1.3,London,Web3,88,MIT,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,1,0
+Mrs. Gloria Holt,Founder,4.8,Utrecht,Consulting,16,Stanford University,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1
